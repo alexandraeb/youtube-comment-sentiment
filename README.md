@@ -9,5 +9,5 @@ The first (videoid) is required, while the second (csv) is optional
 The following is an example input for running the script
 
 ```
-python YoutubeCommentsSentiment.py --videoid=qVn2YGvIv0w --csv=Y
+python YoutubeCommentsSentiment.py --videoid=qVn2YGvIv0w --csv=y
 ```
